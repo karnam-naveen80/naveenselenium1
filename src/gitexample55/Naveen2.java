@@ -1,5 +1,6 @@
 package gitexample55;
 
-public class Naveen2 {
+public class Naveen2 
+{
 
 }
